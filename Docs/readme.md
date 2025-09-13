@@ -13,6 +13,22 @@ Module opp:
 - Bocal séparateur (verre type conserve 500–750 mL)
 - Tuyau silicone 6×9 mm
 
+## 🧩 Composition de la pièce
+Ta pièce se compose de trois éléments principaux :
+
+1. Corps Venturi
+
+C’est le tube central qui crée la dépression.
+Il a une entrée large, un rétrécissement interne (effet Venturi), et une sortie.
+
+2. Embout MIG (entrée d’air comprimé)
+Se fixe à la base du corps Venturi.
+Permet de connecter un compresseur via une buse MIG ou un raccord rapide.
+
+3. Embout M6 (aspiration)
+Se visse ou s’emboîte à l’autre extrémité.
+Sert à raccorder un tuyau pour aspirer liquide de frein, huile, etc.
+
 ## 🧰 Étapes de montage
 
 1. **Préparation**
@@ -47,4 +63,5 @@ Module opp:
 5. **Test**
    - Mettre en pression (6–7 bar)
    - Observer le vacuomètre
+
    - Vérifier l’aspiration et l’étanchéité
